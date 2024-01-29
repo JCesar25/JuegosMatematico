@@ -30,7 +30,7 @@ const MathExercise = () => {
     {
       id: 2,
       imagen: juegosImage2,
-      respuestas: [15, 20, 25],
+      respuestas: [15, 20, 252],
       respuestaCorrecta: 20,
     },
     {
